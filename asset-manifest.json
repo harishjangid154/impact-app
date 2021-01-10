@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/impact-app/static/css/main.94cef787.chunk.css",
+    "main.js": "/impact-app/static/js/main.0955cabf.chunk.js",
+    "main.js.map": "/impact-app/static/js/main.0955cabf.chunk.js.map",
+    "runtime-main.js": "/impact-app/static/js/runtime-main.2e0aa0ab.js",
+    "runtime-main.js.map": "/impact-app/static/js/runtime-main.2e0aa0ab.js.map",
+    "static/js/2.14283cd8.chunk.js": "/impact-app/static/js/2.14283cd8.chunk.js",
+    "static/js/2.14283cd8.chunk.js.map": "/impact-app/static/js/2.14283cd8.chunk.js.map",
+    "index.html": "/impact-app/index.html",
+    "static/css/main.94cef787.chunk.css.map": "/impact-app/static/css/main.94cef787.chunk.css.map",
+    "static/js/2.14283cd8.chunk.js.LICENSE.txt": "/impact-app/static/js/2.14283cd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0aa0ab.js",
+    "static/js/2.14283cd8.chunk.js",
+    "static/css/main.94cef787.chunk.css",
+    "static/js/main.0955cabf.chunk.js"
+  ]
+}
